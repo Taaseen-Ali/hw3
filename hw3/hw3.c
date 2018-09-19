@@ -33,4 +33,5 @@ int main(){
   for(int i=0; i<10; i++)
     printf("ar_two[%d]: %d\n", i, ar_two[i]);
 
+  return 0;
 }
